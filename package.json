@@ -1,0 +1,23 @@
+{
+    "name": "wing21-mon",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "deploy": "gh-pages -d dist"
+    },
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "firebase": "^10.0.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react": "^4.0.0",
+      "vite": "^5.0.0",
+      "gh-pages": "^6.0.0"
+    },
+    "homepage": "https://guzer2529.github.io/wing21-mon"
+  }
+  
